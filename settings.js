@@ -13,7 +13,7 @@ global.APIs = {
 
 // Free apikey (Apikey expired silahkan login terus ganti V12 dgn apikey lu)
 global.APIKeys = {
-   'https://api.zeeoneofc.my.id': 'Khslth3E', // 👉 login https://api.zeeoneofc.xyz to get apikey
+   'https://api.zeeoneofc.my.id': 'zV8L3qk2', // 👉 login https://api.zeeoneofc.xyz to get apikey
 }
 
 // setting 
